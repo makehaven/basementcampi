@@ -1,0 +1,2 @@
+- install `omxplayer`
+- install the crontab `pi`
